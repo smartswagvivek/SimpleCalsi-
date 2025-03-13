@@ -46,4 +46,3 @@ This Python project is a Simple Calculator built using the **Tkinter** library. 
 
 ---
 
-Feel free to modify any part of this overview to better fit your project! If you have any other requests or need further assistance, just let me know!
